@@ -1,2 +1,2 @@
 ## Pengolahan Citra dan Visi Komputer
-author: laudryfadian
+make with :heart: & :coffee:
